@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BLUE HAVEN HOSTEL",
+    "description": "Executive Room – Premium single room with private bathroom and study area",
+    "capacity": 1,
+    "status": "AVAILABLE",
+    "image": "https://s3-ap-southeast-1.amazonaws.com/atap-main/gallery-full/b4432052-4ac0-43fe-b1e5-2f80dd7112cf/eureka-boutique-hotel.jpg"
+  },
+  {
+    "name": "OAKVIEW RESIDENCE",
+    "description": "Double Room – Spacious room for two students with twin beds and ample storage",
+    "capacity": 2,
+    "status": "Available",
+    "image": "https://th.bing.com/th/id/R.7a0619ab29b81644c8731820ef200625?rik=IjyHotQwHsFZug&riu=http%3a%2f%2fucd.hwstatic.com%2fpropertyimages%2f2%2f272040%2f39.jpg&ehk=i8Y5bjmm0f9BPwryPIRJ9GZGabuQW54x%2bOGJjbKVegs%3d&risl=&pid=ImgRaw&r=0"
+  }
+]

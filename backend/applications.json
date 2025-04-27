@@ -1,0 +1,11 @@
+[
+ {
+    "name": "Emil E. Lawer",
+    "studentId": "11223345",
+    "gender": "Male",
+    "hostel": "BLUE HAVEN HOSTEL",
+    "roomType": "1-in-1",
+    "notes": "Allergic to dirt",
+    "status": "Approved"
+  }
+]
